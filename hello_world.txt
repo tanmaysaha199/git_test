@@ -1,0 +1,2 @@
+Hi there!
+I am learning web development using the odin project.
